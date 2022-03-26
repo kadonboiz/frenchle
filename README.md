@@ -4,4 +4,4 @@ Frenchle includes a daily game to play every day and a Customs option! You can s
 And the best part is..
 You can play it whenever you want! Frenchle does include a daily but Custom allows limitless Frenchle..ing!
 
-All code assembled by Kaden "Guy" Kroll
+All code assembled by "Guy"
